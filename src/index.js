@@ -19,7 +19,7 @@ EncomGlobe.defaultProps = {
     font: 'Inconsolata',
     pinsData: pinLocations,
     tiles: grid.tiles,
-    baseColor: 'blue',
+    baseColor: 'red',
     markerColor: 'red',
     pinColor: 'green',
     satelliteColor: 'yellow',
